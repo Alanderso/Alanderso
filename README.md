@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I’m currently in the the Full Stack Develop path.
 <!--
 **Alanderso/Alanderso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
